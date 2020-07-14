@@ -1,0 +1,39 @@
+.footer-sec {
+    background: #52546a;
+    padding: 12px 0px;
+}
+.navigate-link .links-list {
+    list-style-type: none;
+    padding: 0px;
+}   
+.footer2-text-cont address {
+    font-size: 15px;
+    color: #fff;
+}
+.footer2-text-cont {
+    color: rgba(255,255,255, .7);
+    font-size: 16px;
+}
+.footer2-text-cont a {
+    color: rgba(255,255,255, .7);
+}
+.navigate-link ul li button {
+    color: #fff;
+    font-size: 15px;
+    background: none;
+    border: none;
+}
+.navigate-link ul li button:focus {
+    outline: none;
+}
+.navigate-link ul li button:hover {
+    color: rgba(255,255,255, .7);
+}
+.footer-sec h4 {
+    margin-top: 18px;
+   
+    font-family: 'Poppins',Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    font-weight: normal;
+    color: #fff;
+}
